@@ -1,0 +1,1 @@
+ C:\\Users\\mhdih\\OneDrive\\Desktop\\WattReward\\.dart_tool\\flutter_build\\ecf69ba8be4d855b750e717f87b90106\\native_assets.yaml: 
