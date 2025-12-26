@@ -11,23 +11,23 @@ This project models interactions in a private EV charging ecosystem using smart 
 
 ## Contract Files
 
-| File                    | Description                               |
-|-------------------------|-------------------------------------------|
-| `ERC20.sol`            | Basic ERC20 token implementation used as the network currency. |
-| `EvChargingContract.sol` | Main EV charging smart contract for managing sessions and token payments. |
-| `TokenMinter.sol`      | Contract responsible for minting new tokens (e.g. for incentives or initial distribution). |
-| `Restuarant.sol`       | Example/auxiliary contract simulating another actor that can accept or interact with tokens. |
+| File                    | Description                               |  
+|-------------------------|-------------------------------------------|  
+| `ERC20.sol`            | Basic ERC20 token implementation used as the network currency. |  
+| `EvChargingContract.sol` | Main EV charging smart contract for managing sessions and token payments. |  
+| `TokenMinter.sol`      | Contract responsible for minting new tokens (e.g. for incentives or initial distribution). |  
+| `Restuarant.sol`       | Example/auxiliary contract simulating another actor that can accept or interact with tokens. |  
  
 ## Project Structure
 
 ├─ .vscode/     # VS Code settings for Solidity/Flutter tooling    
-├─ .gitattributes # Git LFS and text attributes
-├─ .gitignore # Ignored build/IDE files
-├─ ERC20.sol # ERC20 token contract
-├─ EvChargingContract.sol # EV charging logic contract
-├─ Restuarant.sol # Example auxiliary contract
-├─ TokenMinter.sol # Token minting contract
-└─ README.md # Project documentation
+├─ .gitattributes # Git LFS and text attributes  
+├─ .gitignore # Ignored build/IDE files  
+├─ ERC20.sol # ERC20 token contract  
+├─ EvChargingContract.sol # EV charging logic contract  
+├─ Restuarant.sol # Example auxiliary contract  
+├─ TokenMinter.sol # Token minting contract  
+└─ README.md # Project documentation  
  
 ## Getting Started
 
