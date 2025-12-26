@@ -1,6 +1,7 @@
 # EV Charging Network on Blockchain
 
-A **Solidity-based simulation** of a private EV charging network using blockchain and custom ERC20 tokens. 
+A **Solidity-based simulation** of a private EV charging network using blockchain and custom ERC20 tokens.
+This was implemented as part of an EV projet 
 ## Overview
 
 This project models interactions in a private EV charging ecosystem using smart contracts, including:
@@ -59,4 +60,4 @@ If you want a more advanced setup:
 ## Notes
 
 - This repository focuses on **contract logic**, not on a full front-end or production deployment pipeline. 
-- `.flutter-plugins` entries are generated files from an older Flutter integration and are not required to understand the smart contracts themselves. 
+ 
